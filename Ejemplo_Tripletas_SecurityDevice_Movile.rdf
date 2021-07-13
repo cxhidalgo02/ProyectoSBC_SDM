@@ -1,0 +1,17 @@
+<http://proyecto.org/sbc/data/DOCMDS1> <http://purl.org/ontology/bibo/identifier> "DOCMDS1" .
+<http://proyecto.org/sbc/data/DOCMDS1> <http://purl.org/dc/terms/language> "en" .
+<http://proyecto.org/sbc/data/DOCMDS1> <http://purl.org/dc/terms/title> "SelMon:reinforcing mobile device security with self protected trust anchor" .
+<http://proyecto.org/sbc/data/DOCMDS1> <http://purl.org/ontology/bibo/uri> "https://dl.acm.org/doi/abs/10.1145/3386901.3389023" .
+<http://proyecto.org/sbc/data/DOCMDS1> <http://purl.org/dc/terms/date> "June 2020" .
+<http://proyecto.org/sbc/data/DOCMDS1> <http://purl.org/ontology/bibo/abstract> "Higher privileged trust anchors such as thin hypervisors and TrustZone have been adopted to protect mobile OSs. For instance the Samsung Knox security platform implements a kernel integrity monitor based on a hardware-assisted virtualization technique for 64-bit" .
+<http://proyecto.org/sbc/data/DOCMDS1> <http://purl.org/ontology/bibo/numPages> "13pag" .
+<http://proyecto.org/sbc/data/DOCMDS1> <http://purl.org/ontology/bibo/numCites> "Citado por 5" .
+<http://proyecto.org/sbc/data/DOCMDS1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Document> .
+<http://proyecto.org/sbc/data/J_Jang> <http://xmlns.com/foaf/0.1/name> "J Jang" .
+<http://proyecto.org/sbc/data/J_Jang> <http://purl.org/dc/terms/creator> <http://purl.org/ontology/bibo/Document/DOCMDS1> .
+<http://proyecto.org/sbc/data/J_Jang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://proyecto.org/sbc/data/acm> <http://purl.org/dc/terms/description> "HTML" .
+<http://proyecto.org/sbc/data/acm> <http://xmlns.com/foaf/0.1/homepage> "https://dl.acm.org" .
+<http://proyecto.org/sbc/data/acm> <http://xmlns.com/foaf/0.1/name> "acm" .
+<http://proyecto.org/sbc/data/acm> <http://purl.org/ontology/bibo/issuer> "http://purl.org/ontology/bibo/Organization/DOCMDS1" .
+<http://proyecto.org/sbc/data/acm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
