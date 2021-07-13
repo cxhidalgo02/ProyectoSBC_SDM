@@ -1,0 +1,81 @@
+<http://proyecto.org/sbc/data/J_Jang> <http://xmlns.com/foaf/0.1/name> "J Jang" .
+<http://proyecto.org/sbc/data/J_Jang> <http://purl.org/dc/terms/creator> <http://purl.org/ontology/bibo/Document/DOCMDS1> .
+<http://proyecto.org/sbc/data/J_Jang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://proyecto.org/sbc/data/DOCMDS1> <http://purl.org/ontology/bibo/identifier> "DOCMDS1" .
+<http://proyecto.org/sbc/data/DOCMDS1> <http://purl.org/dc/terms/language> "en" .
+<http://proyecto.org/sbc/data/DOCMDS1> <http://purl.org/dc/terms/title> "SelMon:reinforcing mobile device security with self protected trust anchor" .
+<http://proyecto.org/sbc/data/DOCMDS1> <http://purl.org/ontology/bibo/uri> "https://dl.acm.org/doi/abs/10.1145/3386901.3389023," .
+<http://proyecto.org/sbc/data/DOCMDS1> <http://purl.org/dc/terms/date> "June 2020" .
+<http://proyecto.org/sbc/data/DOCMDS1> <http://purl.org/ontology/bibo/abstract> "Higher privileged trust anchors such as thin hypervisors and TrustZone have been adopted to protect mobile OSs. For instance the Samsung Knox security platform implements a kernel integrity monitor based on a hardware-assisted virtualization technique for 64-bit" .
+<http://proyecto.org/sbc/data/DOCMDS1> <http://purl.org/ontology/bibo/numPages> "13pag" .
+<http://proyecto.org/sbc/data/DOCMDS1> <http://purl.org/ontology/bibo/numCites> "Citado por 5" .
+<http://proyecto.org/sbc/data/DOCMDS1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Document> .
+<http://proyecto.org/sbc/data/papers_ssrn> <http://purl.org/dc/terms/description> "PDF" .
+<http://proyecto.org/sbc/data/papers_ssrn> <http://xmlns.com/foaf/0.1/homepage> "https://papers.ssrn.com" .
+<http://proyecto.org/sbc/data/papers_ssrn> <http://xmlns.com/foaf/0.1/name> "papers ssrn" .
+<http://proyecto.org/sbc/data/papers_ssrn> <http://purl.org/ontology/bibo/issuer> "http://purl.org/ontology/bibo/Organization/DOCMDS5" .
+<http://proyecto.org/sbc/data/papers_ssrn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://proyecto.org/sbc/data/csrc_nist> <http://purl.org/dc/terms/description> "HTML" .
+<http://proyecto.org/sbc/data/csrc_nist> <http://xmlns.com/foaf/0.1/homepage> "https://csrc.nist.gov" .
+<http://proyecto.org/sbc/data/csrc_nist> <http://xmlns.com/foaf/0.1/name> "csrc nist" .
+<http://proyecto.org/sbc/data/csrc_nist> <http://purl.org/ontology/bibo/issuer> "http://purl.org/ontology/bibo/Organization/DOCMDS2" .
+<http://proyecto.org/sbc/data/csrc_nist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://proyecto.org/sbc/data/DOCMDS4> <http://purl.org/ontology/bibo/identifier> "DOCMDS4" .
+<http://proyecto.org/sbc/data/DOCMDS4> <http://purl.org/ontology/bibo/abstract> "The purpose of this qualitative exploratory case study was to explore the strategies that four IT managers and 11 IT professionals used to secure corporate data and networks on their mobile devices. The general problem was the lack of attention on investigating how leaders" .
+<http://proyecto.org/sbc/data/DOCMDS4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Document> .
+<http://proyecto.org/sbc/data/DOCMDS4> <http://purl.org/dc/terms/language> "en" .
+<http://proyecto.org/sbc/data/DOCMDS4> <http://purl.org/dc/terms/title> "IT Managers and IT Professionals Mobile Device Security Strategies: A Qualitative Exploratory Case Study" .
+<http://proyecto.org/sbc/data/DOCMDS4> <http://purl.org/ontology/bibo/numCites> "Citado por 1" .
+<http://proyecto.org/sbc/data/DOCMDS4> <http://purl.org/ontology/bibo/numPages> "24pag" .
+<http://proyecto.org/sbc/data/DOCMDS4> <http://purl.org/ontology/bibo/uri> "https://search.proquest.com/openview/0124fe0ed32ad8a7dfa9b7e8d43627b9/1?pq-origsite=gscholar&cbl=18750&diss=y," .
+<http://proyecto.org/sbc/data/DOCMDS4> <http://purl.org/dc/terms/date> "June 2020" .
+<http://proyecto.org/sbc/data/K_Boeckl> <http://xmlns.com/foaf/0.1/name> "K Boeckl" .
+<http://proyecto.org/sbc/data/K_Boeckl> <http://purl.org/dc/terms/creator> <http://purl.org/ontology/bibo/Document/DOCMDS2> .
+<http://proyecto.org/sbc/data/K_Boeckl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://proyecto.org/sbc/data/DOCMDS2> <http://purl.org/ontology/bibo/identifier> "DOCMDS2" .
+<http://proyecto.org/sbc/data/DOCMDS2> <http://purl.org/dc/terms/title> "Mobile Device Security: Bring Your Own Device (BYOD)" .
+<http://proyecto.org/sbc/data/DOCMDS2> <http://purl.org/ontology/bibo/uri> "https://csrc.nist.gov/publications/detail/sp/1800-22/draft," .
+<http://proyecto.org/sbc/data/DOCMDS2> <http://purl.org/dc/terms/language> "en" .
+<http://proyecto.org/sbc/data/DOCMDS2> <http://purl.org/dc/terms/date> "Mach 2020" .
+<http://proyecto.org/sbc/data/DOCMDS2> <http://purl.org/ontology/bibo/numPages> "266pag" .
+<http://proyecto.org/sbc/data/DOCMDS2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Document> .
+<http://proyecto.org/sbc/data/DOCMDS2> <http://purl.org/ontology/bibo/numCites> "Citado por 2" .
+<http://proyecto.org/sbc/data/DOCMDS2> <http://purl.org/ontology/bibo/abstract> "Abstract Bring Your Own Device (BYOD) refers to the practice of performing work related activities on personally owned devices. This practice guide provides an example solution demonstrating how to enhance security and privacy in Android and Apple smartphone" .
+<http://proyecto.org/sbc/data/acm> <http://purl.org/dc/terms/description> "HTML" .
+<http://proyecto.org/sbc/data/acm> <http://xmlns.com/foaf/0.1/homepage> "https://dl.acm.org" .
+<http://proyecto.org/sbc/data/acm> <http://xmlns.com/foaf/0.1/name> "acm" .
+<http://proyecto.org/sbc/data/acm> <http://purl.org/ontology/bibo/issuer> "http://purl.org/ontology/bibo/Organization/DOCMDS1" .
+<http://proyecto.org/sbc/data/acm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://proyecto.org/sbc/data/search_proquest> <http://purl.org/ontology/bibo/issuer> "http://purl.org/ontology/bibo/Organization/DOCMDS4" .
+<http://proyecto.org/sbc/data/search_proquest> <http://purl.org/dc/terms/description> "PDF" .
+<http://proyecto.org/sbc/data/search_proquest> <http://xmlns.com/foaf/0.1/homepage> "https://search.proquest.com" .
+<http://proyecto.org/sbc/data/search_proquest> <http://xmlns.com/foaf/0.1/name> "search proquest" .
+<http://proyecto.org/sbc/data/search_proquest> <http://purl.org/ontology/bibo/issuer> "http://purl.org/ontology/bibo/Organization/DOCMDS3" .
+<http://proyecto.org/sbc/data/search_proquest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://proyecto.org/sbc/data/D_Crawford> <http://xmlns.com/foaf/0.1/name> "D Crawford" .
+<http://proyecto.org/sbc/data/D_Crawford> <http://purl.org/dc/terms/creator> <http://purl.org/ontology/bibo/Document/DOCMDS3> .
+<http://proyecto.org/sbc/data/D_Crawford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://proyecto.org/sbc/data/DOCMDS5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Document> .
+<http://proyecto.org/sbc/data/DOCMDS5> <http://purl.org/ontology/bibo/numCites> "Citado por 7" .
+<http://proyecto.org/sbc/data/DOCMDS5> <http://purl.org/ontology/bibo/abstract> "Mobile security or more specifically mobile device security  has become increasingly important in mobile computing for digital literacy. Digital literacy is the set of competencies required for full participation in knowledge of society. It includes knowledge   skills" .
+<http://proyecto.org/sbc/data/DOCMDS5> <http://purl.org/dc/terms/title> "Mobile Device Security Issues in Digital Literacy for Higher Learning Institution" .
+<http://proyecto.org/sbc/data/DOCMDS5> <http://purl.org/dc/terms/language> "en" .
+<http://proyecto.org/sbc/data/DOCMDS5> <http://purl.org/ontology/bibo/numPages> "11pag" .
+<http://proyecto.org/sbc/data/DOCMDS5> <http://purl.org/dc/terms/date> "may-20" .
+<http://proyecto.org/sbc/data/DOCMDS5> <http://purl.org/ontology/bibo/identifier> "DOCMDS5" .
+<http://proyecto.org/sbc/data/DOCMDS5> <http://purl.org/ontology/bibo/uri> "https://papers.ssrn.com/sol3/papers.cfm?abstract id=3587272," .
+<http://proyecto.org/sbc/data/SAAM_Ahmed> <http://xmlns.com/foaf/0.1/name> "SAAM Ahmed" .
+<http://proyecto.org/sbc/data/SAAM_Ahmed> <http://purl.org/dc/terms/creator> <http://purl.org/ontology/bibo/Document/DOCMDS5> .
+<http://proyecto.org/sbc/data/SAAM_Ahmed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://proyecto.org/sbc/data/T_White> <http://xmlns.com/foaf/0.1/name> "T White" .
+<http://proyecto.org/sbc/data/T_White> <http://purl.org/dc/terms/creator> <http://purl.org/ontology/bibo/Document/DOCMDS4> .
+<http://proyecto.org/sbc/data/T_White> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://proyecto.org/sbc/data/DOCMDS3> <http://purl.org/dc/terms/language> "en" .
+<http://proyecto.org/sbc/data/DOCMDS3> <http://purl.org/ontology/bibo/numPages> "24pag" .
+<http://proyecto.org/sbc/data/DOCMDS3> <http://purl.org/dc/terms/date> "June 2020" .
+<http://proyecto.org/sbc/data/DOCMDS3> <http://purl.org/ontology/bibo/uri> "https://search.proquest.com/openview/8f2cedba33499940ea9fd14b4f8d05dd/1?pq-origsite=gscholar&cbl=51922&diss=y," .
+<http://proyecto.org/sbc/data/DOCMDS3> <http://purl.org/ontology/bibo/abstract> "The implementation of a Bring Your Own Device program benefits organizations through cost savings increased productivity a reduction in technical learning curves and an increase in productivity. The adoption of mobile devices for dual use by employees creates" .
+<http://proyecto.org/sbc/data/DOCMDS3> <http://purl.org/dc/terms/title> "Predicting Bring Your Own Device Users Mobile Device Security Adoption: A Correlational Study" .
+<http://proyecto.org/sbc/data/DOCMDS3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Document> .
+<http://proyecto.org/sbc/data/DOCMDS3> <http://purl.org/ontology/bibo/identifier> "DOCMDS3" .
+<http://proyecto.org/sbc/data/DOCMDS3> <http://purl.org/ontology/bibo/numCites> "Citado por 3" .
